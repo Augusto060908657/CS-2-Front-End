@@ -71,19 +71,7 @@ st.image("assets/placas/MT-001.jpg", caption="Placa — MT-001")
 
 # Ou base64 extraída via OCR/CV na Sprint 1:
 # st.image(decoded_image_bytes, caption=f"Placa — {tag}")
-```
 
----
-
-## 📁 Estrutura do Projeto
-
-```
-dashboard_motores/
-├── app.py              # Aplicação principal Streamlit
-├── requirements.txt    # Dependências Python
-├── README.md           # Este arquivo
-└── assets/             # (Crie esta pasta)
-    └── placas/         # Imagens das placas por TAG (ex: MT-001.jpg)
 ```
 
 ---
