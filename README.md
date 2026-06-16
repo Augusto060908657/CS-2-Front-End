@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Como Rodar
+## Como Rodar
 
 ```bash
 # 1. Instalar dependências
@@ -29,7 +29,7 @@ O dashboard abre automaticamente em: **http://localhost:8501**
 
 ---
 
-## 🔄 Como Integrar Seus Dados Reais (Sprint 1)
+## Como Integrar Seus Dados Reais (Sprint 1)
 
 ### Opção A — Arquivo CSV
 
@@ -76,7 +76,7 @@ st.image("assets/placas/MT-001.jpg", caption="Placa — MT-001")
 
 ---
 
-## 🎨 Arquitetura do Dashboard
+## Arquitetura do Dashboard
 
 ```
 ┌─────────────────────────────────────────────────┐
@@ -94,7 +94,7 @@ st.image("assets/placas/MT-001.jpg", caption="Placa — MT-001")
 
 ---
 
-## ⚙️ Limites Operacionais
+## Limites Operacionais
 
 Ajuste o dicionário `LIMITES` em `app.py`:
 
@@ -108,7 +108,7 @@ LIMITES = {
 
 ---
 
-## 📦 Deploy
+## Deploy
 
 ```bash
 # Streamlit Cloud (gratuito)
